@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:2:5-31
+		INJECTED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/luknoj/.android/build-cache/ef2e6458659d56040c06e0a62255b2f239646c08/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/luknoj/.android/build-cache/ef2e6458659d56040c06e0a62255b2f239646c08/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luknoj/.android/build-cache/b49858825e828abb6e44614e35b4470e1c0005fb/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luknoj/.android/build-cache/a6f7ecd873e6b04fc6110ff2eedbb8c40e976a45/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luknoj/.android/build-cache/98c07e79746895657ab3a86a441abd5155e9d756/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luknoj/.android/build-cache/7dd104236c732d18a86782732fd807df3453d97c/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luknoj/.android/build-cache/8dd81f958c72e1f3303b65f9d005203dd19202c4/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luknoj/.android/build-cache/bd995f0354115f1b5115d9abe51f8f03717ceefe/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luknoj/.android/build-cache/07ea629e619a01746a344e11749136563922388d/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luknoj/.android/build-cache/169b1dce14f55a6b2dabaec3354f2c70c9dda32a/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luknoj/.android/build-cache/353f68a1e5050122ddd17094d6e6a5c030330e8a/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/luknoj/.android/build-cache/8d9e23e3f0ab368af5edeb0491b0fe7d548c193d/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/luknoj/.android/build-cache/e3f672d9bc2f64d43f76bc394c3b05295e1daac5/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/luknoj/.android/build-cache/4e97691f25037569ab94eb1004342dd186bd2259/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.locationform.MainActivity
+ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/luknoj/.android/build-cache/ef2e6458659d56040c06e0a62255b2f239646c08/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luknoj/.android/build-cache/b49858825e828abb6e44614e35b4470e1c0005fb/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luknoj/.android/build-cache/a6f7ecd873e6b04fc6110ff2eedbb8c40e976a45/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luknoj/.android/build-cache/98c07e79746895657ab3a86a441abd5155e9d756/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luknoj/.android/build-cache/7dd104236c732d18a86782732fd807df3453d97c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luknoj/.android/build-cache/8dd81f958c72e1f3303b65f9d005203dd19202c4/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luknoj/.android/build-cache/bd995f0354115f1b5115d9abe51f8f03717ceefe/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luknoj/.android/build-cache/07ea629e619a01746a344e11749136563922388d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luknoj/.android/build-cache/169b1dce14f55a6b2dabaec3354f2c70c9dda32a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luknoj/.android/build-cache/353f68a1e5050122ddd17094d6e6a5c030330e8a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/luknoj/.android/build-cache/8d9e23e3f0ab368af5edeb0491b0fe7d548c193d/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/luknoj/.android/build-cache/730c4a863668a59796d4a0abd97d4d7039ee2332/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/luknoj/.android/build-cache/cd125be750f47722963c8f422cf4330cd10deed2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/luknoj/.android/build-cache/790df29e2468f73972519067a15dcded1628a168/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/luknoj/.android/build-cache/c974cf604ddbac90cf93e3f20f7833423604a156/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/luknoj/.android/build-cache/3d1ad91c049d587e6b6f6e16d10079f82c462353/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/luknoj/.android/build-cache/c2455413f264cc10b6d95d25886ddcab1c12472b/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/luknoj/.android/build-cache/645e725b553d17955ab456ac2163eb7d7889c9db/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/luknoj/.android/build-cache/e3f672d9bc2f64d43f76bc394c3b05295e1daac5/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/luknoj/.android/build-cache/b49858825e828abb6e44614e35b4470e1c0005fb/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/luknoj/.android/build-cache/b49858825e828abb6e44614e35b4470e1c0005fb/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luknoj/.android/build-cache/a6f7ecd873e6b04fc6110ff2eedbb8c40e976a45/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luknoj/.android/build-cache/98c07e79746895657ab3a86a441abd5155e9d756/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luknoj/.android/build-cache/7dd104236c732d18a86782732fd807df3453d97c/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luknoj/.android/build-cache/8dd81f958c72e1f3303b65f9d005203dd19202c4/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luknoj/.android/build-cache/bd995f0354115f1b5115d9abe51f8f03717ceefe/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luknoj/.android/build-cache/07ea629e619a01746a344e11749136563922388d/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luknoj/.android/build-cache/169b1dce14f55a6b2dabaec3354f2c70c9dda32a/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luknoj/.android/build-cache/353f68a1e5050122ddd17094d6e6a5c030330e8a/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/luknoj/.android/build-cache/b49858825e828abb6e44614e35b4470e1c0005fb/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/luknoj/.android/build-cache/b49858825e828abb6e44614e35b4470e1c0005fb/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/luknoj/.android/build-cache/8d9e23e3f0ab368af5edeb0491b0fe7d548c193d/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/luknoj/.android/build-cache/8d9e23e3f0ab368af5edeb0491b0fe7d548c193d/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/luknoj/.android/build-cache/8d9e23e3f0ab368af5edeb0491b0fe7d548c193d/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

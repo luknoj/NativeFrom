@@ -1,0 +1,7 @@
+#Tue Jul 10 15:51:10 CEST 2018
+base.0=/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_76d5c40ad4d476bda34c9ce3f7c334be825686a1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f72fc5822a9925c00ada691b9224fe0db74be8d6/classes.dex
+base.1=/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f72fc5822a9925c00ada691b9224fe0db74be8d6
+file.0=/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_76d5c40ad4d476bda34c9ce3f7c334be825686a1/classes.dex

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/luknoj/.android/build-cache/b49858825e828abb6e44614e35b4470e1c0005fb/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/luknoj/.android/build-cache/b49858825e828abb6e44614e35b4470e1c0005fb/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

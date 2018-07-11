@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

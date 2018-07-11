@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/luknoj/.android/build-cache/ef2e6458659d56040c06e0a62255b2f239646c08/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53c68fe8728d62f81425af67ab5fdaba135ea3d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_76d5c40ad4d476bda34c9ce3f7c334be825686a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luknoj/.android/build-cache/ef2e6458659d56040c06e0a62255b2f239646c08/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_6c8553572cb7346e96c2114004433be25974fe5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="479615056a8abe8f0e3d0eb519ab161fca9a9fde">
+        <dex dex="/Users/luknoj/Desktop/version-control/ReactNative/locationForm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f72fc5822a9925c00ada691b9224fe0db74be8d6/classes.dex" />
+    </item>
+
+</items>
