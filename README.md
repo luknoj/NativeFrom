@@ -16,13 +16,13 @@ or for iOS
 react-native run-ios
 ```
 
-To run test you can use:
+To run all tests you can use:
 
 ```
 npm test
 ```
 
-Or if you want to run separate test:
+Or if you want to run separate tests:
 ```
 npm test COMPONENT_NAME
 ```
